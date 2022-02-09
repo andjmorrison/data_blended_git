@@ -4,6 +4,7 @@ from config import my_var
 x = 'Stanley'
 y = 'Cup'
 
+# set name
 my_friend = 'Harrison'
 
 # print statement
