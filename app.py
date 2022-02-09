@@ -4,7 +4,7 @@ from config import my_var
 x = 'Stanley'
 y = 'Cup'
 
-my_friend = 'Harrison'
+my_friend = 'Show'
 
 # print statement
 print(f"I don't know what the {x} {y} is all about! However, {my_friend} loves it!")
